@@ -1,6 +1,5 @@
 package tech.devinhouse.clamedv2.testes;
 
-import com.patricia.Sapato;
 import tech.devinhouse.clamedv2.model.Cliente;
 
 import java.util.HashMap;
