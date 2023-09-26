@@ -1,3 +1,5 @@
+package tech.devinhouse.clamedv2.modificadores;
+
 public class TesteDeModificadores {
 
     public String atributo;

@@ -1,7 +1,7 @@
-package tech.devinhouse.clamedv2.testes;
+package tech.devinhouse.clamedv2.bancario;
 
-import tech.devinhouse.clamedv2.model.Cliente;
-import tech.devinhouse.clamedv2.model.Conta;
+import tech.devinhouse.clamedv2.bancario.Cliente;
+import tech.devinhouse.clamedv2.bancario.Conta;
 
 public class Main {
 

@@ -1,9 +1,8 @@
-package tech.devinhouse.clamedv2.testes;
+package tech.devinhouse.clamedv2.packages;
 
-import tech.devinhouse.clamedv2.model.Cliente;
+import tech.devinhouse.clamedv2.bancario.Cliente;
 
 import java.util.HashMap;
-import java.util.List;
 import java.util.Date;
 
 public class MainPackages {

@@ -1,4 +1,4 @@
-package tech.devinhouse.clamedv2.model;
+package tech.devinhouse.clamedv2.bancario;
 
 public class Cliente {
 
