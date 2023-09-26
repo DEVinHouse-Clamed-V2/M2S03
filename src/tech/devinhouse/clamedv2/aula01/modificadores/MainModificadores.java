@@ -1,4 +1,4 @@
-package tech.devinhouse.clamedv2.modificadores;
+package tech.devinhouse.clamedv2.aula01.modificadores;
 
 public class MainModificadores {
 

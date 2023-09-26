@@ -1,4 +1,4 @@
-package tech.devinhouse.clamedv2.bancario;
+package tech.devinhouse.clamedv2.aula01.bancario;
 
 public class Conta {
 

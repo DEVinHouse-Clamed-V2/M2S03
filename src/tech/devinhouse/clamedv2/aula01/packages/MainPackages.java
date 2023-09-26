@@ -1,6 +1,6 @@
-package tech.devinhouse.clamedv2.packages;
+package tech.devinhouse.clamedv2.aula01.packages;
 
-import tech.devinhouse.clamedv2.bancario.Cliente;
+import tech.devinhouse.clamedv2.aula01.bancario.Cliente;
 
 import java.util.HashMap;
 import java.util.Date;

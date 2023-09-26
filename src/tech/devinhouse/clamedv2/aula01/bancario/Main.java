@@ -1,7 +1,4 @@
-package tech.devinhouse.clamedv2.bancario;
-
-import tech.devinhouse.clamedv2.bancario.Cliente;
-import tech.devinhouse.clamedv2.bancario.Conta;
+package tech.devinhouse.clamedv2.aula01.bancario;
 
 public class Main {
 
